@@ -38,7 +38,7 @@ class Keys extends Component {
 
           </p>
         </div>
-      )
+      );
     }
 }
 

@@ -1,18 +1,15 @@
 import React, { Component } from 'react'
-import './Keys.css'
+import './Header.css'
 
 class Header extends Component {
     render () {
       return (
-        <div>
+        
           <div className="title">
-            <p>GA Instruments TI-WDI</p>
+            <p>GA Instruments TI-WDI-10</p>
           </div>
-          <div className="display">
-            <input type="text" readOnly size="18" id="d" />
-          </div>
-        </div>
-    )
+
+    );
   }
 }
 

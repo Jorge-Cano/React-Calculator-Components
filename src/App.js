@@ -11,6 +11,7 @@ class App extends Component {
           <h1>Reactor Factor Calculator!</h1>
         <div className="box">
           <Header />
+          <Key />
           <Keys />
         </div>
       </div>
